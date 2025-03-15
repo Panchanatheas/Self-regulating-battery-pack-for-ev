@@ -1,1 +1,0 @@
-# Self-regulating-battery-pack-for-ev
